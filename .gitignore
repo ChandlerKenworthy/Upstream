@@ -1,2 +1,5 @@
 # Ignore root files
 data/
+
+# Model files
+models/
