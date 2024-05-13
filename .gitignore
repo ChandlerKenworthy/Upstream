@@ -3,3 +3,6 @@ data/
 
 # Model files
 models/
+
+# macos
+.DS_Store
