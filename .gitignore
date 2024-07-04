@@ -6,3 +6,6 @@ models/
 
 # macos
 .DS_Store
+
+# plots
+plots/
